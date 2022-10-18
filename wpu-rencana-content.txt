@@ -15,8 +15,10 @@ RENCANA KONTEN WPU
 - PHP Frameworks
   ^ Laravel
 - Interview
+  ^ tes pemmrograman untuk masuk dunia kerja
 - Vlogs
 - Python
+  ^ Dasar pemrogramman menggunakan python 
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
